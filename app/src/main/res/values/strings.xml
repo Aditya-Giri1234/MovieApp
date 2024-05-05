@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="retry">retry</string>
+    <string name="paging_error_msg">No Internet Connection</string>
+</resources>
